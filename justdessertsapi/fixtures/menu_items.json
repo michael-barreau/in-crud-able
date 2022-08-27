@@ -1,0 +1,35 @@
+[
+    {
+        "model": "justdessertsapi.menuitem",
+        "pk": 1,
+        "fields": {
+            "title": "Red Velveeta",
+            "description": "Scrumptious red velvet cake", 
+            "price": 4.99,
+            "type":  "Cake",
+            "serving_size": 2
+        }
+    },
+    {
+        "model": "justdessertsapi.menuitem",
+        "pk": 2,
+        "fields": {
+            "title": "Pecan Boo",
+            "description": "Freshly baked pecan pie", 
+            "price": 3.99,
+            "type":  "Pie",
+            "serving_size": 1
+        }
+    },
+    {
+        "model": "justdessertsapi.menuitem",
+        "pk": 3,
+        "fields": {
+            "title": "Ice Scream",
+            "description": "15 flavors of ice cream so good..it's scary.", 
+            "price": 5.99,
+            "type":  "Ice Cream",
+            "serving_size": 3
+        }
+    }
+]
